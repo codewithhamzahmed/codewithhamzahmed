@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img height="400" src="https://raw.githubusercontent.com/codewithhamzahmed/codewithhamzahmed/main/Artboard%202.png"  />
+  <img height="350" src="https://raw.githubusercontent.com/codewithhamzahmed/codewithhamzahmed/main/Artboard%202.png"  />
 </div>
 
 ###
