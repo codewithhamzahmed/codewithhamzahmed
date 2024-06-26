@@ -2,8 +2,6 @@
 
 ###
 
-<h4 align="left">I'm Muhammad Hamza Ahmed!</h4>
-
 ###
 
 <div align="left">
